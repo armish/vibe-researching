@@ -1,0 +1,89 @@
+A cancer cell line, called RPMI2650, is extremely sensitive to gene NUTM1 depletion via CRISPR-KO. Top 10 major dependencies for this cell line are: NUTM1, TRUB1, GJC1, TRMT2B, TAF11, IRS4, CDH11, FBXO28, NDUFAF5, PSENEN.
+
+Here are the mutations identified in this cell line:
+Gene	Variant Type	Variant Info	Protein Change
+MORN1	SNV	missense_variant	p.N236K
+USP48	SNV	missense_variant	p.R161Q
+EYA3	deletion	inframe_deletion	p.S373_D374delinsY
+AKIRIN1	SNV	missense_variant	p.R86C
+KLF18	substitution	missense_variant	p.A428T
+PGM1	SNV	missense_variant	p.Y517S
+SMG5	SNV	missense_variant	p.M574K
+DNAH14	SNV	missense_variant	p.Q3786H
+NDUFB8	deletion	frameshift_variant	p.V3GfsTer15
+C10orf120	SNV	missense_variant	p.I60M
+MUC6	substitution	missense_variant	p.Q1821_T1822delinsHA
+MUC5AC	deletion	inframe_deletion	p.S4407_G4438del
+IGSF22	deletion	frameshift_variant	p.L1181PfsTer12
+CAPRIN1	SNV	missense_variant&splice_region_variant	p.G73R
+CD6	SNV	missense_variant	p.S264F
+PLCB3	substitution	missense_variant	p.S911P
+LINC02714	deletion	splice_donor_variant&splice_donor_5th_base_variant&non_coding_transcript_exon_variant&intron_variant	
+ACSM4	SNV	missense_variant	p.M224I
+MUC19	deletion	frameshift_variant	p.T3364GfsTer2
+MUC19	substitution	missense_variant	p.D5371Y
+BEST3	SNV	missense_variant	p.R414K
+ACSS3	insertion	frameshift_variant	p.G23WfsTer89
+GJA3	deletion	inframe_deletion	p.V398_A402del
+STARD13	SNV	missense_variant	p.R427S
+RNASE8	SNV	missense_variant	p.C82G
+TTC6	substitution	missense_variant	p.E252D
+SYNE3	SNV	missense_variant	p.Q226E
+VPS39	SNV	missense_variant	p.L572V
+UQCRC2	SNV	splice_donor_variant	
+MYH4	SNV	missense_variant	p.L176S
+MYH1	SNV	missense_variant	p.S1141F
+SUZ12	SNV	missense_variant	p.R563H
+HELZ	SNV	stop_gained	p.Q224Ter
+PIAS2	SNV	splice_acceptor_variant	
+ELOA2	SNV	missense_variant	p.G445S
+MALT1	SNV	missense_variant	p.A646T
+RTTN	SNV	missense_variant	p.A1202G
+GRIN3B	SNV	missense_variant	p.L592P
+ARHGAP45	substitution	missense_variant	p.T1124M
+STK11	SNV	missense_variant	p.A205T
+FBN3	substitution	missense_variant	p.R1033L
+TSHZ3	SNV	missense_variant	p.S132F
+MAP4K1	SNV	missense_variant	p.G694S
+SELENOV	SNV	missense_variant	p.V97L
+C19orf81	SNV	missense_variant	p.N195T
+LILRB2	SNV	missense_variant	p.A149V
+GDF7	substitution	missense_variant	p.L234M
+EMILIN1	SNV	missense_variant	p.G990E
+SEMA4C	SNV	splice_acceptor_variant	
+CRACDL	deletion	inframe_deletion	p.E546_R554delinsG
+TTN	SNV	missense_variant	p.G17175E
+LIPI	SNV	missense_variant	p.F243L
+TNRC6B	SNV	missense_variant	p.T3A
+RPUSD3	SNV	missense_variant	p.A172T
+NBEAL2	SNV	missense_variant&splice_region_variant	p.T2676I
+LRIG1	SNV	missense_variant	p.T251S
+MUC4	substitution	missense_variant	p.R3616S
+MUC4	substitution	missense_variant	p.D3605I
+MUC4	substitution	missense_variant	p.A3318I
+EVC2	SNV	missense_variant	p.M577V
+BMPR1B	SNV	missense_variant	p.R126M
+FAT4	SNV	missense_variant	p.Y1247H
+GRIA2	SNV	missense_variant	p.A68E
+EXOC3	SNV	missense_variant	p.E36D
+TENT4A	SNV	missense_variant	p.Q238R
+CMYA5	SNV	missense_variant	p.I292V
+KIAA0825	SNV	missense_variant	p.P846S
+PPARGC1B	SNV	stop_lost	p.Ter1024WextTer1
+ADAMTS2	SNV	missense_variant	p.P1108S
+ERVFRD-1	SNV	start_lost	p.M1?
+NUP153	SNV	missense_variant	p.C742Y
+PSORS1C1	SNV	missense_variant	p.E34V
+GPER1	SNV	missense_variant	p.H282Q
+RHBDD2	SNV	missense_variant	p.P314R
+LAMB1	SNV	missense_variant&splice_region_variant	p.V205L
+PTPRZ1	SNV	missense_variant	p.L831V
+ADAM32	SNV	missense_variant	p.C636R
+PRSS3	substitution	missense_variant	p.G208R
+TRMT10B	substitution	missense_variant	p.Y289L
+SLC44A1	substitution	missense_variant	p.S8T
+ANOS1	SNV	missense_variant	p.C49W
+KLHL13	SNV	missense_variant	p.M263I
+ZFY	SNV	missense_variant	p.F500C
+
+Based on these, can you help me understand why RPMI2650 might be super sensitive to NUTM1 depletion? Use markdown when you are answering and make sure you keep the references in.

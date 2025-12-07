@@ -1,0 +1,94 @@
+A cancer cell line, called NIHOVCAR3, is extremely sensitive to gene FZR1 depletion via CRISPR-KO. Top 10 major dependencies for this cell line are: LGALS4, ZNF568, ZNF875, LRFN1, ZBTB32, MAP4K1, PLEKHF1, CCNE1, BLVRB, TARM1.
+
+Here are the mutations identified in this cell line:
+Gene	Variant Type	Variant Info	Protein Change
+AADACL4	deletion	inframe_deletion	p.W263_I267del
+POU3F1	SNV	missense_variant	p.G93R
+FCRL5	SNV	missense_variant	p.L570H
+SPTA1	SNV	missense_variant	p.K601N
+CFAP126	SNV	missense_variant	p.I143T
+DUSP12	SNV	missense_variant	p.V80A
+SGPL1	SNV	missense_variant	p.W195R
+GFRA1	SNV	missense_variant	p.G24R
+TCERG1L	SNV	missense_variant	p.P442S
+SYT8	SNV	missense_variant	p.Q343R
+MMP26	SNV	missense_variant	p.C82F
+BBOX1	SNV	missense_variant	p.W116L
+KBTBD4	SNV	missense_variant	p.T378S
+MTA2	SNV	missense_variant	p.R514W
+RELT	SNV	missense_variant	p.G154D
+OR8G5	SNV	missense_variant	p.A119V
+PTHLH	SNV	missense_variant	p.P118L
+AAAS	SNV	stop_gained	p.E95Ter
+PIP4K2C	SNV	missense_variant	p.P7S
+FANCM	SNV	missense_variant	p.A1042T
+ADAM10	SNV	missense_variant	p.A568T
+NEIL1	SNV	missense_variant	p.R52G
+BRICD5	SNV	missense_variant	p.A179T
+TP53	SNV	missense_variant	p.R248Q
+EVPLL	SNV	missense_variant	p.I259N
+KRTAP1-1	SNV	missense_variant	p.R117K
+LRRC46	SNV	missense_variant	p.M244V
+CCDC182	SNV	missense_variant	p.R131P
+KCNH6	SNV	missense_variant	p.V267A
+SKOR2	SNV	missense_variant	p.D146N
+REXO1	SNV	splice_donor_variant	
+MUC16	SNV	missense_variant	p.V14046M
+CIST1	SNV	missense_variant	p.G164C
+ZNF257	substitution	missense_variant	p.C126H
+PRR19	SNV	missense_variant	p.V7I
+PPP2R1A	SNV	missense_variant	p.E100K
+ZNF600	SNV	missense_variant	p.L666P
+KIR2DL1	SNV	missense_variant	p.K271N
+KLHL29	SNV	missense_variant	p.D308E
+GPR39	SNV	missense_variant	p.N434I
+SP9	SNV	missense_variant	p.R328S
+UNC80	SNV	missense_variant	p.H397Y
+UNC80	SNV	missense_variant	p.K2394R
+TRIP12	SNV	missense_variant	p.R1773C
+CENPB	SNV	missense_variant	p.R291W
+PAX1	SNV	missense_variant	p.S213L
+FAM217B	SNV	stop_gained	p.R156Ter
+ZDHHC8	SNV	missense_variant	p.K752T
+CPT1B	SNV	missense_variant	p.G668E
+CACNA1D	SNV	missense_variant	p.N1535T
+CFAP20DC	SNV	missense_variant	p.M676T
+STX19	SNV	missense_variant	p.F149L
+CCDC39	SNV	missense_variant	p.S67L
+TLR1	SNV	missense_variant	p.L302S
+PTPN13	SNV	missense_variant	p.F1296S
+RAPGEF2	SNV	missense_variant	p.E567G
+ADAM29	substitution	missense_variant	p.T800M
+PIK3R1	SNV	splice_acceptor_variant	
+PROB1	insertion	frameshift_variant	p.P559QfsTer29
+PROB1	insertion	stop_gained&frameshift_variant	p.E558NfsTer5
+PCDH1	SNV	missense_variant	p.A1047T
+MUC22	substitution	missense_variant	p.T273E
+EYS	insertion	frameshift_variant	p.L3087IfsTer2
+USP42	SNV	missense_variant	p.L1187V
+NOD1	SNV	missense_variant	p.E172K
+LINC02854	SNV	splice_acceptor_variant&non_coding_transcript_variant	
+PCLO	SNV	missense_variant	p.T115A
+SRI	insertion	frameshift_variant	p.A9RfsTer44
+FZD1	SNV	missense_variant	p.E149K
+ERVW-1	substitution	stop_gained	p.L333Ter
+MUC3A	substitution	missense_variant	p.W18G
+COPG2	SNV	missense_variant	p.I125V
+NEFM	SNV	missense_variant	p.E578V
+FNTA	SNV	missense_variant	p.K336R
+CA1	SNV	missense_variant	p.H97Y
+RUNX1T1	SNV	missense_variant	p.D398G
+AUH	SNV	missense_variant&splice_region_variant	p.Q314H
+ROR2	SNV	missense_variant	p.V149I
+FBP2	SNV	missense_variant&splice_region_variant	p.A190V
+TRIM32	SNV	missense_variant	p.K627E
+CLIC3	SNV	missense_variant	p.A209T
+MT-ND1	SNV	missense_variant	p.T164A
+MT-ND5	SNV	missense_variant	p.F85L
+MT-CYB	SNV	missense_variant	p.T241M
+TBL1X	SNV	missense_variant	p.G282D
+TASL	SNV	missense_variant	p.S197R
+HMGN5	SNV	stop_gained	p.R4Ter
+HMGB3	SNV	missense_variant&splice_region_variant	p.T51A
+
+Based on these, can you help me understand why NIHOVCAR3 might be super sensitive to FZR1 depletion? Use markdown when you are answering and make sure you keep the references in.

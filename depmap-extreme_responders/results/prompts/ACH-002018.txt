@@ -1,0 +1,70 @@
+A cancer cell line, called OMM25, is extremely sensitive to gene PRKCE depletion via CRISPR-KO. Top 10 major dependencies for this cell line are: RASGRP3, PRKCE, GNAQ, SOX10, SPTSSA, RIC8A, SPTLC1, BMS1, ADRB2, TXN.
+
+Here are the mutations identified in this cell line:
+Gene	Variant Type	Variant Info	Protein Change
+ARID1A	SNV	missense_variant	p.N80T
+DKK1	SNV	missense_variant	p.L190F
+SLK	insertion	stop_gained&frameshift_variant&splice_region_variant	
+PNLIPRP1	SNV	missense_variant	p.L151F
+OAT	deletion	splice_donor_variant&splice_donor_5th_base_variant&coding_sequence_variant&intron_variant	
+MKI67	SNV	stop_gained	p.K136Ter
+MUC5AC	substitution	missense_variant	p.A5353K
+CREB3L1	SNV	missense_variant	p.M147R
+PC	SNV	missense_variant	p.S176P
+MAML2	SNV	missense_variant	p.N579S
+NINJ2	insertion	frameshift_variant	p.V82DfsTer15
+RAD51AP1	SNV	missense_variant	p.K165T
+CHD4	deletion	splice_acceptor_variant&coding_sequence_variant&intron_variant	
+HOXC13	SNV	missense_variant	p.L73R
+TAOK3	SNV	missense_variant	p.S424G
+IFT88	deletion	frameshift_variant	p.K377HfsTer9
+N4BP2L2	deletion	inframe_deletion	p.L532del
+MCF2L	SNV	missense_variant	p.K696Q
+PRPF39	SNV	missense_variant	p.T176I
+TNRC6A	SNV	missense_variant	p.N1018K
+ZNF668	SNV	stop_gained	p.C24Ter
+TOX3	SNV	missense_variant	p.S260T
+PLEKHH3	SNV	missense_variant	p.S615R
+APPBP2	SNV	missense_variant	p.L13R
+NUP85	SNV	missense_variant	p.Y268N
+CABLES1	SNV	start_lost	p.M1?
+GPX4	SNV	missense_variant	p.C16S
+MUC16	substitution	missense_variant	p.L13233F
+TYK2	SNV	missense_variant	p.V329L
+SMARCA4	SNV	missense_variant	p.G1030C
+CPAMD8	SNV	missense_variant	p.Q1147E
+RYR1	SNV	missense_variant	p.Y4310S
+CLPTM1	SNV	missense_variant	p.I246T
+DMWD	SNV	missense_variant	p.L91R
+ZNF638	SNV	missense_variant	p.E1822K
+MBD5	deletion	inframe_deletion	p.T1133_S1141del
+GPR155	insertion	frameshift_variant	p.S797LfsTer5
+HOXD9	SNV	missense_variant	p.V100G
+HTR2B	SNV	missense_variant	p.T73I
+ECEL1	SNV	missense_variant	p.C23G
+GIGYF2	SNV	missense_variant&splice_region_variant	p.R126P
+DDRGK1	SNV	missense_variant	p.K146T
+MCM8	SNV	stop_gained	p.K42Ter
+DSCAM	SNV	missense_variant	p.N795K
+MCM3AP	SNV	missense_variant	p.S656R
+ANKRD28	SNV	missense_variant&splice_region_variant	p.I827R
+NSUN7	SNV	missense_variant	p.S183A
+DCHS2	substitution	missense_variant	p.N1352S
+HLA-A	substitution	missense_variant	p.L180Q
+MUC22	insertion	inframe_insertion	p.A1441_T1460dup
+PRDM1	SNV	missense_variant	p.N172S
+NUP42	SNV	missense_variant	p.T199I
+NFE2L3	SNV	missense_variant	p.P52R
+WRN	SNV	stop_gained	p.R369Ter
+TMEM8B	SNV	missense_variant	p.Y310D
+GNAQ	SNV	missense_variant	p.Q209P
+NTRK2	SNV	missense_variant	p.D692N
+SHC3	SNV	missense_variant	p.S99R
+NR6A1	SNV	stop_gained	p.S259Ter
+GAPVD1	SNV	missense_variant&splice_region_variant	p.G678R
+MT-ND1	SNV	missense_variant	p.A50T
+MT-ND4	SNV	missense_variant	p.F309L
+MT-ND5	SNV	missense_variant	p.T449A
+RTL3	SNV	stop_gained	p.S219Ter
+
+Based on these, can you help me understand why OMM25 might be super sensitive to PRKCE depletion? Use markdown when you are answering and make sure you keep the references in.

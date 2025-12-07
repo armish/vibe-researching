@@ -1,0 +1,1 @@
+cat ../../results/n1s_tbl.tsv |awk '{ print $2 }' |grep "^ACH" |xargs -I@ -P4 bash -c 'wget "https://depmap.org/portal/partials/data_table/download_temp/mutation_by_cell_line?model_id=@" --quiet -O @.csv'

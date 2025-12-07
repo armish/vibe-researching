@@ -1,0 +1,112 @@
+A cancer cell line, called SF539, is extremely sensitive to gene SPNS1 depletion via CRISPR-KO. Top 10 major dependencies for this cell line are: ISG15, SPNS1, USP18, SLC22A5, NDC1, UBE2G2, SUPT7L, RAB18, PAPSS1, ZNF638.
+
+Here are the mutations identified in this cell line:
+Gene	Variant Type	Variant Info	Protein Change
+GPR153	SNV	missense_variant	p.C17S
+COL16A1	deletion	frameshift_variant	p.I264LfsTer30
+ARMH1	SNV	stop_gained	p.Q298Ter
+GSTM5	SNV	missense_variant	p.D151H
+FLG	SNV	stop_gained	p.Y2119Ter
+TAF5L	deletion	frameshift_variant	p.K154SfsTer5
+OR11L1	SNV	missense_variant	p.Q90H
+MYOZ1	substitution	missense_variant	p.P291S
+CLRN3	SNV	missense_variant	p.P119L
+KCNQ1	SNV	missense_variant	p.A302V
+OR52P1	SNV	missense_variant	p.R197S
+PIK3C2A	SNV	missense_variant&splice_region_variant	p.V443A
+RAG2	SNV	missense_variant	p.E407D
+DTX4	SNV	missense_variant	p.Y22C
+MOGAT2	SNV	missense_variant	p.K252N
+LINC02714	deletion	splice_donor_variant&splice_donor_5th_base_variant&non_coding_transcript_exon_variant&intron_variant	
+TAS2R30	substitution	missense_variant	p.I33T
+INTS13	SNV	missense_variant	p.L243V
+NACA	substitution	missense_variant	p.L1232P
+GLI1	SNV	missense_variant	p.P957S
+GRIP1	SNV	missense_variant&splice_region_variant	p.V1054L
+RB1	deletion	frameshift_variant	p.T116LfsTer8
+SYT16	SNV	missense_variant	p.S387Y
+CCDC197	SNV	missense_variant	p.T258I
+AHNAK2	substitution	missense_variant	p.G1637S
+SLC24A5	SNV	splice_donor_variant	
+PARP16	substitution	missense_variant	p.L72Q
+FCSK	SNV	missense_variant	p.L340F
+CTU2	SNV	missense_variant	p.R413P
+OR3A2	substitution	missense_variant	p.D124A
+SPATA22	deletion	splice_donor_variant&splice_donor_region_variant&intron_variant	
+TP53	deletion	frameshift_variant	p.R342EfsTer3
+GRAP	SNV	missense_variant	p.P158L
+SPATA32	SNV	stop_gained	p.Y78Ter
+ACE	SNV	missense_variant	p.A670G
+SMCHD1	SNV	stop_gained	p.Q1007Ter
+STXBP2	SNV	missense_variant	p.A423V
+MUC16	substitution	missense_variant	p.T13958S
+ZNF844	SNV	missense_variant	p.L349V
+HNRNPL	SNV	missense_variant	p.I164V
+CIC	SNV	missense_variant	p.A1596T
+IRGQ	SNV	missense_variant	p.K345E
+MBOAT7	SNV	missense_variant	p.S156N
+ADCY3	SNV	stop_gained	p.E381Ter
+POMC	SNV	missense_variant	p.G131S
+CNGA3	SNV	missense_variant	p.L363V
+EIF5B	SNV	missense_variant	p.R612M
+KCNJ3	SNV	missense_variant	p.F164L
+TANC1	SNV	missense_variant	p.I395K
+TANC1	SNV	missense_variant	p.E1162K
+CPS1	SNV	missense_variant	p.E1114D
+PECR	deletion	frameshift_variant	p.T133RfsTer15
+CUL3	deletion	frameshift_variant	p.S447Ter
+ATP5PF	SNV	missense_variant	p.D86H
+TRMT2A	substitution	missense_variant	p.L214I
+L3MBTL2	SNV	missense_variant	p.D23V
+TTLL3	substitution	missense_variant	p.R332H
+PLCL2	substitution	missense_variant	p.L821H
+FRG2C	SNV	missense_variant	p.T209K
+CSNKA2IP	SNV	missense_variant	p.C498W
+SENP2	SNV	missense_variant	p.Q403H
+SGMS2	SNV	missense_variant	p.N193D
+ABCE1	SNV	missense_variant	p.R567I
+TMEM154	SNV	missense_variant	p.P83L
+TPPP	substitution	missense_variant	p.G39S
+TERT	SNV	upstream_gene_variant	
+TMEM161B	SNV	missense_variant	p.A52S
+POU4F3	SNV	missense_variant	p.A110G
+BTN3A2	SNV	splice_donor_variant	
+MUC22	substitution	missense_variant	p.T273E
+HLA-DQA2	substitution	missense_variant	p.A16T
+ADGRB3	SNV	missense_variant	p.F564C
+HS3ST5	SNV	missense_variant	p.R325C
+NCOA7	insertion	frameshift_variant	p.T819DfsTer22
+PDE10A	SNV	missense_variant	p.R641W
+CARD11	SNV	missense_variant	p.R30Q
+TNRC18	SNV	missense_variant	p.E2942K
+DNAH11	deletion	inframe_deletion	p.A3178_L3180del
+STK31	SNV	missense_variant	p.Y957F
+MUC3A	substitution	missense_variant	p.T303V
+MUC3A	substitution	missense_variant	p.G307H
+CHCHD3	SNV	missense_variant	p.E169D
+KIAA1549	deletion	frameshift_variant	p.R984VfsTer5
+OR9A1P	SNV	missense_variant	p.N137H
+DPP6	SNV	missense_variant	p.G248S
+ESYT2	SNV	missense_variant	p.L369F
+IDO2	SNV	missense_variant	p.R395S
+CSPP1	SNV	stop_gained	p.S473Ter
+ZFAND1	SNV	stop_gained	p.R130Ter
+CSMD3	SNV	missense_variant	p.T1285I
+CSMD3	SNV	missense_variant	p.G693V
+UBQLN1	SNV	missense_variant	p.P53S
+TLR4	SNV	missense_variant	p.L378R
+CCDC187	SNV	missense_variant	p.P357S
+EHMT1	SNV	missense_variant	p.M32V
+MAGEB10	SNV	missense_variant	p.I211T
+FAM47C	substitution	missense_variant	p.K432E
+FAM47C	substitution	missense_variant	p.K564E
+SHROOM4	SNV	missense_variant	p.K45N
+SLC7A3	SNV	missense_variant	p.A48G
+TRMT2B	SNV	missense_variant	p.T392I
+SLC6A14	SNV	missense_variant	p.H630N
+DOCK11	SNV	missense_variant	p.E1786Q
+STAG2	SNV	stop_gained	p.R259Ter
+SPANXN4	deletion	splice_acceptor_variant&coding_sequence_variant	p.K29del
+UBE2NL	SNV	missense_variant	p.N151H
+
+Based on these, can you help me understand why SF539 might be super sensitive to SPNS1 depletion? Use markdown when you are answering and make sure you keep the references in.

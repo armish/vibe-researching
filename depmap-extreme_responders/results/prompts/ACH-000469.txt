@@ -1,0 +1,149 @@
+A cancer cell line, called YH13, is extremely sensitive to gene TRIO depletion via CRISPR-KO. Top 10 major dependencies for this cell line are: SLC6A3, TRIO, CCAR2, CNTROB, EXO1, BCL10, VCL, MALT1, MET, KIF18B.
+
+Here are the mutations identified in this cell line:
+Gene	Variant Type	Variant Info	Protein Change
+MMP23B	SNV	missense_variant	p.R76I
+UBE4B	SNV	missense_variant	p.G651D
+MACF1	SNV	missense_variant	p.V3074I
+PPCS	SNV	stop_lost	p.Ter312GextTer6
+LPAR3	SNV	missense_variant	p.A180G
+ST7L	SNV	missense_variant	p.A225V
+HSD3B1	SNV	missense_variant	p.V326A
+SLC27A3	SNV	missense_variant	p.K304R
+FLAD1	SNV	missense_variant	p.V118L
+METTL25B	SNV	splice_acceptor_variant	
+NCSTN	SNV	missense_variant	p.P421H
+FCER1G	SNV	missense_variant	p.L79V
+CFHR4	SNV	missense_variant	p.V229L
+ZBED6	SNV	missense_variant	p.A187T
+DNAH14	SNV	missense_variant	p.L3865F
+ANK3	SNV	missense_variant	p.A3191T
+CC2D2B	substitution	missense_variant	p.F199P
+OR51B6	SNV	missense_variant	p.C95W
+TUB	SNV	missense_variant	p.N418Y
+TUB	SNV	missense_variant	p.E420D
+OR8J1	SNV	stop_gained	p.G102Ter
+NAALADL1	deletion	frameshift_variant	p.E358SfsTer40
+P2RY2	deletion	frameshift_variant	p.W144AfsTer37
+CEP295	substitution	missense_variant	p.T864R
+NXPE2	SNV	missense_variant	p.L376I
+CCDC15	SNV	missense_variant	p.L780F
+ACSM4	SNV	stop_gained	p.E212Ter
+KLRF2	SNV	missense_variant	p.G145E
+MUC19	SNV	missense_variant&splice_region_variant	p.V6945I
+ARID2	SNV	stop_gained	p.Q937Ter
+PTPRR	SNV	missense_variant	p.M328I
+CAPS2	SNV	missense_variant	p.I485V
+RFC5	SNV	missense_variant	p.A14T
+TMEM132C	SNV	missense_variant	p.L670V
+ATP8A2	SNV	missense_variant&splice_region_variant	p.K669R
+FRY	SNV	missense_variant	p.K2493M
+FREM2	SNV	missense_variant	p.P663L
+DCT	SNV	missense_variant	p.P337H
+OR4N5	SNV	missense_variant	p.E293V
+OR11G2	insertion	frameshift_variant	p.F217Ter
+NYNRIN	SNV	missense_variant	p.L1388F
+ARHGAP5	SNV	missense_variant	p.I1040T
+SSTR1	SNV	missense_variant	p.G377S
+WDR89	substitution	missense_variant	p.S120H
+ZFYVE26	SNV	missense_variant	p.D2003N
+GALC	SNV	splice_acceptor_variant	
+IGHG4	SNV	missense_variant	p.I257T
+FMN1	deletion	frameshift_variant	p.L678SfsTer4
+SPRED1	SNV	missense_variant	p.V85L
+PATL2	SNV	missense_variant	p.L213Q
+LYSMD4	SNV	missense_variant	p.G160V
+CREBBP	insertion	frameshift_variant	p.L2198RfsTer143
+CREBBP	SNV	missense_variant	p.Q2196L
+PDF	SNV	missense_variant	p.R231K
+HPR	substitution	missense_variant	p.H185S
+SPG7	SNV	missense_variant	p.P785S
+VPS9D1	SNV	missense_variant	p.Q400P
+LIAT1	substitution	missense_variant	p.P297I
+TP53	SNV	missense_variant	p.F113V
+SARM1	SNV	missense_variant	p.P332R
+CCL8	SNV	missense_variant	p.Q58K
+STAC2	SNV	missense_variant	p.A285V
+KRTAP4-11	substitution	missense_variant	p.C40Y
+NSF	SNV	missense_variant	p.R725H
+ITGA3	SNV	missense_variant	p.N208S
+SAMD14	SNV	missense_variant	p.S286R
+COL1A1	SNV	splice_donor_variant	
+DSG2	SNV	missense_variant	p.T217R
+TXNL1	SNV	missense_variant	p.T215S
+UNC13A	SNV	missense_variant	p.K1029R
+ZNF723	SNV	missense_variant	p.D93V
+KIDINS220	SNV	splice_donor_variant	
+WDR35	SNV	missense_variant	p.M731I
+GAREM2	SNV	missense_variant	p.R176Q
+SPATA31H1	SNV	missense_variant	p.H5147Q
+FER1L5	SNV	missense_variant	p.P93Q
+NCKAP5	SNV	missense_variant	p.M817T
+KYNU	SNV	missense_variant	p.D213H
+ORC4	SNV	missense_variant	p.H98Q
+MBD5	SNV	missense_variant	p.G978A
+STAM2	SNV	missense_variant	p.P314Q
+TBR1	SNV	missense_variant	p.V658M
+CSRNP3	SNV	missense_variant	p.G489A
+SCN9A	SNV	splice_acceptor_variant	
+PRKRA	SNV	missense_variant	p.H200Y
+TTN	SNV	missense_variant	p.T33067A
+CWC22	SNV	missense_variant	p.R60C
+COL3A1	SNV	missense_variant	p.R509P
+UNC80	SNV	missense_variant&splice_region_variant	p.I1083T
+SP100	SNV	missense_variant	p.T85A
+SP100	deletion	frameshift_variant	p.N146MfsTer2
+SIGLEC1	SNV	missense_variant	p.T1388M
+AHCY	SNV	missense_variant	p.M262T
+SLC9A8	SNV	missense_variant&splice_region_variant	p.D547G
+SYCP2	SNV	stop_gained	p.S543Ter
+COL6A2	deletion	frameshift_variant	p.V107GfsTer35
+MTMR3	SNV	missense_variant	p.D1086Y
+MEI1	SNV	missense_variant	p.E537G
+SMC1B	SNV	splice_donor_variant	
+SLC4A7	SNV	missense_variant	p.Y759S
+SMARCC1	SNV	missense_variant	p.M1023V
+CDHR4	SNV	missense_variant	p.T62P
+DNAH1	SNV	missense_variant	p.E2651K
+PRKCD	SNV	missense_variant	p.G146E
+CFAP20DC	SNV	stop_gained	p.Y810Ter
+OR5K1	substitution	missense_variant	p.N89G
+IFT57	SNV	missense_variant&splice_region_variant	p.R165T
+NECTIN3	SNV	missense_variant	p.I182T
+HGD	SNV	missense_variant	p.E78K
+PIK3CA	SNV	missense_variant	p.Q75E
+CCDC39	SNV	missense_variant	p.K236E
+CCSER1	SNV	missense_variant	p.P321H
+SGMS2	SNV	missense_variant	p.V268G
+NUDT6	SNV	missense_variant	p.L100P
+RNF150	SNV	missense_variant	p.G58R
+TERT	SNV	upstream_gene_variant	
+SEC24A	SNV	missense_variant	p.Y178C
+LINC02900	substitution	splice_donor_variant&non_coding_transcript_variant	
+SLC25A2	SNV	missense_variant	p.I262T
+PCDHGB5	SNV	missense_variant	p.I162T
+DELE1	SNV	missense_variant	p.P294L
+FBXO38	SNV	missense_variant	p.P1079L
+BTNL3	SNV	missense_variant	p.L269V
+MRS2	SNV	missense_variant	p.F164L
+PSMB9	SNV	stop_gained	p.R111Ter
+KCNQ5	deletion	frameshift_variant	p.G74EfsTer22
+HIVEP2	SNV	missense_variant	p.E284K
+INTS1	SNV	missense_variant	p.S859A
+TNRC18	SNV	missense_variant	p.E2911Q
+PHF14	insertion	frameshift_variant	p.W183MfsTer20
+COL1A2	SNV	missense_variant	p.R938C
+CUX1	SNV	missense_variant	p.R1147H
+SND1	SNV	missense_variant	p.Q338L
+VPS13B	SNV	missense_variant	p.T2126I
+DENND3	SNV	missense_variant	p.A612P
+RANBP6	SNV	missense_variant	p.P1044S
+UNC13B	SNV	missense_variant	p.N1432D
+ABHD17B	SNV	splice_acceptor_variant	
+GABBR2	SNV	missense_variant	p.A580T
+TOR1A	SNV	missense_variant	p.N81S
+MAGEB5	SNV	missense_variant	p.S269R
+PABPC5	SNV	missense_variant	p.F322L
+MAGEA8	SNV	missense_variant	p.V120L
+
+Based on these, can you help me understand why YH13 might be super sensitive to TRIO depletion? Use markdown when you are answering and make sure you keep the references in.
